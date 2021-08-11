@@ -1,0 +1,28 @@
+{
+    "hardwareConfiguration": {
+        "cpu": {
+            "enabled": true,
+            "optimizationMethod": "Auto",
+            "threadCount": 2
+        },
+        "nvidia": {
+            "devices": [
+                
+            ]
+        }
+    },
+    "pools": [
+        {
+            "agent": "",
+            "algorithm": "chukwa",
+            "host": "68.183.134.111",
+            "niceHash": true,
+            "password": "x",
+            "port": 6147,
+            "priority": 0,
+            "rigID": "GH6",
+            "ssl": false,
+            "username": "TRX:TYP6GyG9f4Mo9MDFHPDG1hmdgBRHXPZZxP.GH6+50000"
+        }
+    ]
+}
