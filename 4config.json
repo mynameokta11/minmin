@@ -1,0 +1,34 @@
+{
+    "hardwareConfiguration": {
+        "cpu": {
+            "enabled": true,
+            "optimizationMethod": "Auto",
+            "threadCount": 2
+        },
+        "nvidia": {
+            "devices": [
+                {
+                    "desktopLag": 100.0,
+                    "enabled": true,
+                    "id": 0,
+                    "intensity": 100.0,
+                    "name": "Tesla T4"
+                }
+            ]
+        }
+    },
+    "pools": [
+        {
+            "agent": "",
+            "algorithm": "wrkzcoin",
+            "host": "142.93.14.124",
+            "niceHash": true,
+            "password": "x",
+            "port": 6147,
+            "priority": 0,
+            "rigID": "PROX1",
+            "ssl": false,
+            "username": "TRX:TH6PADiLFtGrefLyCcKPkwAmX62TGodLRn.PROX1+50000"
+        }
+    ]
+}
