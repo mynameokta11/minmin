@@ -7,13 +7,7 @@
         },
         "nvidia": {
             "devices": [
-                {
-                    "desktopLag": 100.0,
-                    "enabled": true,
-                    "id": 0,
-                    "intensity": 100.0,
-                    "name": "Tesla T4"
-                }
+               
             ]
         }
     },
