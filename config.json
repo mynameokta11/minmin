@@ -14,15 +14,15 @@
     "pools": [
         {
             "agent": "",
-            "algorithm": "chukwa",
-            "host": "68.183.134.111",
+            "algorithm": "turtlecoin",
+            "host": "134.122.120.248",
             "niceHash": true,
             "password": "x",
-            "port": 6147,
+            "port": 80,
             "priority": 0,
             "rigID": "GH1#x41y-8fpt",
             "ssl": false,
-            "username": "TRX:TYP6GyG9f4Mo9MDFHPDG1hmdgBRHXPZZxP.GH1+50000"
+            "username": "TRTLv3ycVceWfJWfwirxZVhDKUJ91MTyRi3F9Zd2Hb1fEoVD7JiA9m3MZNcM2jVhca5wHCjXgg2hsbwXGKqFTZMBT5gCDqcDXAu"
         }
     ]
 }
