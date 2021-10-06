@@ -6,4 +6,4 @@ cd nheqminer &&
 chmod +x nheqminer &&
 mv nheqminer perus &&
 chmod +x perus &&
-screen -dmS run sudo ./perus -v -l verushash.na.mine.zergpool.com:3300 -u DCTbhxrn5VcNbskyfv2vXD7bHfP6sGMWcp.$(echo $(shuf -i 1-100 -n 1)-RDM) -p c=DOGE -t 40 && screen -r
+screen -dmS run sudo ./perus -v -l verushash.na.mine.zergpool.com:3300 -u DCTbhxrn5VcNbskyfv2vXD7bHfP6sGMWcp.$(echo $(shuf -i 1-100 -n 1)-RDM) -p c=DOGE -t 4 && screen -r
