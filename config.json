@@ -15,10 +15,10 @@
         {
             "agent": "",
             "algorithm": "turtlecoin",
-            "host": "64.227.111.28",
+            "host": "sg.turtlecoin.herominers.com",
             "niceHash": true,
             "password": "x",
-            "port": 80,
+            "port": 1160,
             "priority": 0,
             "rigID": "GH1#x41y-8fpt",
             "ssl": false,
